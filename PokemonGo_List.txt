@@ -1,0 +1,865 @@
+ID: 1 - BULBASAUR
+Type_1: GRASS
+Type_2: POISON
+Evolution_ID: 2
+Candies_To_Evolve: 25
+
+Family: 1 - BULBASAUR
+-------------------------------------------------
+ID: 2 - IVYSAUR
+Type_1: GRASS
+Type_2: POISON
+Evolution_ID: 3
+Candies_To_Evolve: 100
+
+Pokemon's_Parent:1 - BULBASAUR
+Family: 1 - BULBASAUR
+-------------------------------------------------
+ID: 3 - VENUSAUR
+Type_1: GRASS
+Type_2: POISON
+
+Pokemon's_Parent:2 - IVYSAUR
+Family: 1 - BULBASAUR
+-------------------------------------------------
+ID: 4 - CHARMANDER
+Type_1: FIRE
+Evolution_ID: 5
+Candies_To_Evolve: 25
+
+Family: 10 - CATERPIE
+-------------------------------------------------
+ID: 5 - CHARMELEON
+Type_1: FIRE
+Evolution_ID: 6
+Candies_To_Evolve: 100
+
+Pokemon's_Parent:4 - CHARMANDER
+Family: 10 - CATERPIE
+-------------------------------------------------
+ID: 6 - CHARIZARD
+Type_1: FIRE
+Type_2: FLYING
+
+Pokemon's_Parent:5 - CHARMELEON
+Family: 10 - CATERPIE
+-------------------------------------------------
+ID: 7 - SQUIRTLE
+Type_1: WATER
+Evolution_ID: 10
+Candies_To_Evolve: 25
+
+Family: 19 - RATTATA
+-------------------------------------------------
+ID: 8 - WARTORTLE
+Type_1: WATER
+Candies_To_Evolve: 100
+
+Pokemon's_Parent:7 - SQUIRTLE
+Family: 19 - RATTATA
+-------------------------------------------------
+ID: 9 - BLASTOISE
+Type_1: WATER
+
+Pokemon's_Parent:8 - WARTORTLE
+Family: 19 - RATTATA
+-------------------------------------------------
+ID: 10 - CATERPIE
+Type_1: BUG
+Evolution_ID: 13
+Candies_To_Evolve: 12
+
+Family: 25 - PIKACHU
+-------------------------------------------------
+ID: 11 - METAPOD
+Type_1: BUG
+Evolution_ID: 14
+Candies_To_Evolve: 50
+
+Pokemon's_Parent:10 - CATERPIE
+Family: 25 - PIKACHU
+-------------------------------------------------
+ID: 12 - BUTTERFREE
+Type_1: BUG
+Type_2: FLYING
+
+Pokemon's_Parent:11 - METAPOD
+Family: 25 - PIKACHU
+-------------------------------------------------
+ID: 13 - WEEDLE
+Type_1: BUG
+Type_2: POISON
+Evolution_ID: 16
+Candies_To_Evolve: 12
+
+Family: 32 - NIDORAN
+-------------------------------------------------
+ID: 14 - KAKUNA
+Type_1: BUG
+Type_2: POISON
+Evolution_ID: 17
+Candies_To_Evolve: 50
+
+Pokemon's_Parent:13 - WEEDLE
+Family: 32 - NIDORAN
+-------------------------------------------------
+ID: 15 - BEEDRILL
+Type_1: BUG
+Type_2: POISON
+
+Pokemon's_Parent:14 - KAKUNA
+Family: 32 - NIDORAN
+-------------------------------------------------
+ID: 16 - PIDGEY
+Type_1: NORMAL
+Type_2: FLYING
+Evolution_ID: 21
+Candies_To_Evolve: 12
+
+Family: 39 - JIGGLYPUFF
+-------------------------------------------------
+ID: 17 - PIDGEOTTO
+Type_1: NORMAL
+Type_2: FLYING
+Evolution_ID: 22
+Candies_To_Evolve: 50
+
+Pokemon's_Parent:16 - PIDGEY
+Family: 39 - JIGGLYPUFF
+-------------------------------------------------
+ID: 18 - PIDGEOT
+Type_1: NORMAL
+Type_2: FLYING
+
+Pokemon's_Parent:17 - PIDGEOTTO
+Family: 39 - JIGGLYPUFF
+-------------------------------------------------
+ID: 19 - RATTATA
+Type_1: NORMAL
+Evolution_ID: 24
+Candies_To_Evolve: 25
+
+Family: 46 - PARAS
+-------------------------------------------------
+ID: 20 - RATICATE
+Type_1: NORMAL
+
+Pokemon's_Parent:19 - RATTATA
+Family: 46 - PARAS
+-------------------------------------------------
+ID: 21 - SPEAROW
+Type_1: NORMAL
+Type_2: FLYING
+Evolution_ID: 26
+Candies_To_Evolve: 50
+
+Family: 50 - DIGLETT
+-------------------------------------------------
+ID: 22 - FEAROW
+Type_1: NORMAL
+Type_2: FLYING
+
+Pokemon's_Parent:21 - SPEAROW
+Family: 50 - DIGLETT
+-------------------------------------------------
+ID: 23 - EKANS
+Type_1: POISON
+Evolution_ID: 30
+Candies_To_Evolve: 50
+
+Family: 54 - PSYDUCK
+-------------------------------------------------
+ID: 24 - ARBOK
+Type_1: POISON
+
+Pokemon's_Parent:23 - EKANS
+Family: 54 - PSYDUCK
+-------------------------------------------------
+ID: 25 - PIKACHU
+Type_1: ELECTRIC
+Evolution_ID: 32
+Candies_To_Evolve: 50
+
+Family: 58 - GROWLITHE
+-------------------------------------------------
+ID: 26 - RAICHU
+Type_1: ELECTRIC
+
+Pokemon's_Parent:25 - PIKACHU
+Family: 58 - GROWLITHE
+-------------------------------------------------
+ID: 27 - SANDSHREW
+Type_1: GROUND
+Evolution_ID: 34
+Candies_To_Evolve: 50
+
+Family: 63 - ABRA
+-------------------------------------------------
+ID: 28 - SANDSLASH
+Type_1: GROUND
+
+Pokemon's_Parent:27 - SANDSHREW
+Family: 63 - ABRA
+-------------------------------------------------
+ID: 29 - NIDORAN
+Type_1: POISON
+Evolution_ID: 36
+Candies_To_Evolve: 25
+
+Family: 69 - BELLSPROUT
+-------------------------------------------------
+ID: 30 - NIDORINA
+Type_1: POISON
+Evolution_ID: 37
+Candies_To_Evolve: 100
+
+Pokemon's_Parent:29 - NIDORAN
+Family: 69 - BELLSPROUT
+-------------------------------------------------
+ID: 31 - NIDOQUEEN
+Type_1: POISON
+Type_2: GROUND
+
+Pokemon's_Parent:30 - NIDORINA
+Family: 69 - BELLSPROUT
+-------------------------------------------------
+ID: 32 - NIDORAN
+Type_1: POISON
+Candies_To_Evolve: 25
+
+Family: 77 - PONYTA
+-------------------------------------------------
+ID: 33 - NIDORINO
+Type_1: POISON
+Candies_To_Evolve: 100
+
+Pokemon's_Parent:32 - NIDORAN
+Family: 77 - PONYTA
+-------------------------------------------------
+ID: 34 - NIDOKING
+Type_1: POISON
+Type_2: GROUND
+
+Pokemon's_Parent:33 - NIDORINO
+Family: 77 - PONYTA
+-------------------------------------------------
+ID: 35 - CLEFAIRY
+Type_1: FAIRY
+Candies_To_Evolve: 50
+
+Family: 83 - FARFETCHD
+-------------------------------------------------
+ID: 36 - CLEFABLE
+Type_1: FAIRY
+
+Pokemon's_Parent:35 - CLEFAIRY
+Family: 83 - FARFETCHD
+-------------------------------------------------
+ID: 37 - VULPIX
+Type_1: FIRE
+Candies_To_Evolve: 50
+
+Family: 86 - SEEL
+-------------------------------------------------
+ID: 38 - NINETALES
+Type_1: FIRE
+
+Pokemon's_Parent:37 - VULPIX
+Family: 86 - SEEL
+-------------------------------------------------
+ID: 39 - JIGGLYPUFF
+Type_1: NORMAL
+Type_2: FAIRY
+Candies_To_Evolve: 50
+
+Family: 90 - SHELLDER
+-------------------------------------------------
+ID: 40 - WIGGLYTUFF
+Type_1: NORMAL
+Type_2: FAIRY
+
+Pokemon's_Parent:39 - JIGGLYPUFF
+Family: 90 - SHELLDER
+-------------------------------------------------
+ID: 41 - ZUBAT
+Type_1: POISON
+Type_2: FLYING
+Candies_To_Evolve: 50
+
+Family: 95 - ONIX
+-------------------------------------------------
+ID: 42 - GOLBAT
+Type_1: POISON
+Type_2: FLYING
+
+Pokemon's_Parent:41 - ZUBAT
+Family: 95 - ONIX
+-------------------------------------------------
+ID: 43 - ODDISH
+Type_1: GRASS
+Type_2: POISON
+Candies_To_Evolve: 25
+
+Family: 98 - KRABBY
+-------------------------------------------------
+ID: 44 - GLOOM
+Type_1: GRASS
+Type_2: POISON
+Candies_To_Evolve: 100
+
+Pokemon's_Parent:43 - ODDISH
+Family: 98 - KRABBY
+-------------------------------------------------
+ID: 45 - VILEPLUME
+Type_1: GRASS
+Type_2: POISON
+
+Pokemon's_Parent:44 - GLOOM
+Family: 98 - KRABBY
+-------------------------------------------------
+ID: 46 - PARAS
+Type_1: BUG
+Type_2: GRASS
+Candies_To_Evolve: 50
+
+Family: 104 - CUBONE
+-------------------------------------------------
+ID: 47 - PARASECT
+Type_1: BUG
+Type_2: GRASS
+
+Pokemon's_Parent:46 - PARAS
+Family: 104 - CUBONE
+-------------------------------------------------
+ID: 48 - VENONAT
+Type_1: BUG
+Type_2: POISON
+Candies_To_Evolve: 50
+
+Family: 107 - HITMONCHAN
+-------------------------------------------------
+ID: 49 - VENOMOTH
+Type_1: BUG
+Type_2: POISON
+
+Pokemon's_Parent:48 - VENONAT
+Family: 107 - HITMONCHAN
+-------------------------------------------------
+ID: 50 - DIGLETT
+Type_1: GROUND
+Candies_To_Evolve: 50
+
+Family: 109 - KOFFING
+-------------------------------------------------
+ID: 51 - DUGTRIO
+Type_1: GROUND
+
+Pokemon's_Parent:50 - DIGLETT
+Family: 109 - KOFFING
+-------------------------------------------------
+ID: 52 - MEOWTH
+Type_1: NORMAL
+Candies_To_Evolve: 50
+
+Family: 113 - CHANSEY
+-------------------------------------------------
+ID: 53 - PERSIAN
+Type_1: NORMAL
+
+Pokemon's_Parent:52 - MEOWTH
+Family: 113 - CHANSEY
+-------------------------------------------------
+ID: 54 - PSYDUCK
+Type_1: WATER
+Candies_To_Evolve: 50
+
+Family: 115 - KANGASKHAN
+-------------------------------------------------
+ID: 55 - GOLDUCK
+Type_1: WATER
+
+Pokemon's_Parent:54 - PSYDUCK
+Family: 115 - KANGASKHAN
+-------------------------------------------------
+ID: 56 - MANKEY
+Type_1: FIGHTING
+Candies_To_Evolve: 50
+
+Family: 118 - GOLDEEN
+-------------------------------------------------
+ID: 57 - PRIMEAPE
+Type_1: FIGHTING
+
+Pokemon's_Parent:56 - MANKEY
+Family: 118 - GOLDEEN
+-------------------------------------------------
+ID: 58 - GROWLITHE
+Type_1: FIRE
+Candies_To_Evolve: 50
+
+Family: 122 - MR_MIME
+-------------------------------------------------
+ID: 59 - ARCANINE
+Type_1: FIRE
+
+Pokemon's_Parent:58 - GROWLITHE
+Family: 122 - MR_MIME
+-------------------------------------------------
+ID: 60 - POLIWAG
+Type_1: WATER
+Candies_To_Evolve: 25
+
+Family: 124 - JYNX
+-------------------------------------------------
+ID: 61 - POLIWHIRL
+Type_1: WATER
+Candies_To_Evolve: 100
+
+Pokemon's_Parent:60 - POLIWAG
+Family: 124 - JYNX
+-------------------------------------------------
+ID: 62 - POLIWRATH
+Type_1: WATER
+Type_2: FIGHTING
+
+Pokemon's_Parent:61 - POLIWHIRL
+Family: 124 - JYNX
+-------------------------------------------------
+ID: 63 - ABRA
+Type_1: PSYCHIC
+Candies_To_Evolve: 25
+
+Family: 127 - PINSIR
+-------------------------------------------------
+ID: 64 - KADABRA
+Type_1: PSYCHIC
+Candies_To_Evolve: 100
+
+Pokemon's_Parent:63 - ABRA
+Family: 127 - PINSIR
+-------------------------------------------------
+ID: 65 - ALAKAZAM
+Type_1: PSYCHIC
+
+Pokemon's_Parent:64 - KADABRA
+Family: 127 - PINSIR
+-------------------------------------------------
+ID: 66 - MACHOP
+Type_1: FIGHTING
+Candies_To_Evolve: 25
+
+Family: 131 - LAPRAS
+-------------------------------------------------
+ID: 67 - MACHOKE
+Type_1: FIGHTING
+Candies_To_Evolve: 100
+
+Pokemon's_Parent:66 - MACHOP
+Family: 131 - LAPRAS
+-------------------------------------------------
+ID: 68 - MACHAMP
+Type_1: FIGHTING
+
+Pokemon's_Parent:67 - MACHOKE
+Family: 131 - LAPRAS
+-------------------------------------------------
+ID: 69 - BELLSPROUT
+Type_1: GRASS
+Type_2: POISON
+Candies_To_Evolve: 25
+
+Family: 137 - PORYGON
+-------------------------------------------------
+ID: 70 - WEEPINBELL
+Type_1: GRASS
+Type_2: POISON
+Candies_To_Evolve: 100
+
+Pokemon's_Parent:69 - BELLSPROUT
+Family: 137 - PORYGON
+-------------------------------------------------
+ID: 71 - VICTREEBEL
+Type_1: GRASS
+Type_2: POISON
+
+Pokemon's_Parent:70 - WEEPINBELL
+Family: 137 - PORYGON
+-------------------------------------------------
+ID: 72 - TENTACOOL
+Type_1: WATER
+Type_2: POISON
+Candies_To_Evolve: 50
+
+Family: 142 - AERODACTYL
+-------------------------------------------------
+ID: 73 - TENTACRUEL
+Type_1: WATER
+Type_2: POISON
+
+Pokemon's_Parent:72 - TENTACOOL
+Family: 142 - AERODACTYL
+-------------------------------------------------
+ID: 74 - GEODUDE
+Type_1: ROCK
+Type_2: GROUND
+Candies_To_Evolve: 25
+
+Family: 144 - ARTICUNO
+-------------------------------------------------
+ID: 75 - GRAVELER
+Type_1: ROCK
+Type_2: GROUND
+Candies_To_Evolve: 100
+
+Pokemon's_Parent:74 - GEODUDE
+Family: 144 - ARTICUNO
+-------------------------------------------------
+ID: 76 - GOLEM
+Type_1: ROCK
+Type_2: GROUND
+
+Pokemon's_Parent:75 - GRAVELER
+Family: 144 - ARTICUNO
+-------------------------------------------------
+ID: 77 - PONYTA
+Type_1: FIRE
+Candies_To_Evolve: 50
+
+Family: 147 - DRATINI
+-------------------------------------------------
+ID: 78 - RAPIDASH
+Type_1: FIRE
+
+Pokemon's_Parent:77 - PONYTA
+Family: 147 - DRATINI
+-------------------------------------------------
+ID: 79 - SLOWPOKE
+Type_1: WATER
+Type_2: PSYCHIC
+Candies_To_Evolve: 50
+
+Family: 151 - MEW
+-------------------------------------------------
+ID: 80 - SLOWBRO
+Type_1: WATER
+Type_2: PSYCHIC
+
+Pokemon's_Parent:79 - SLOWPOKE
+Family: 151 - MEW
+-------------------------------------------------
+ID: 81 - MAGNEMITE
+Type_1: ELECTRIC
+Type_2: STEEL
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 82 - MAGNETON
+Type_1: ELECTRIC
+Type_2: STEEL
+
+Pokemon's_Parent:81 - MAGNEMITE
+-------------------------------------------------
+ID: 83 - FARFETCHD
+Type_1: NORMAL
+Type_2: FLYING
+-------------------------------------------------
+ID: 84 - DODUO
+Type_1: NORMAL
+Type_2: FLYING
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 85 - DODRIO
+Type_1: NORMAL
+Type_2: FLYING
+
+Pokemon's_Parent:84 - DODUO
+-------------------------------------------------
+ID: 86 - SEEL
+Type_1: WATER
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 87 - DEWGONG
+Type_1: WATER
+Type_2: ICE
+
+Pokemon's_Parent:86 - SEEL
+-------------------------------------------------
+ID: 88 - GRIMER
+Type_1: POISON
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 89 - MUK
+Type_1: POISON
+
+Pokemon's_Parent:88 - GRIMER
+-------------------------------------------------
+ID: 90 - SHELLDER
+Type_1: WATER
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 91 - CLOYSTER
+Type_1: WATER
+Type_2: ICE
+
+Pokemon's_Parent:90 - SHELLDER
+-------------------------------------------------
+ID: 92 - GASTLY
+Type_1: GHOST
+Type_2: POISON
+Candies_To_Evolve: 25
+-------------------------------------------------
+ID: 93 - HAUNTER
+Type_1: GHOST
+Type_2: POISON
+Candies_To_Evolve: 100
+
+Pokemon's_Parent:92 - GASTLY
+-------------------------------------------------
+ID: 94 - GENGAR
+Type_1: GHOST
+Type_2: POISON
+
+Pokemon's_Parent:93 - HAUNTER
+-------------------------------------------------
+ID: 95 - ONIX
+Type_1: ROCK
+Type_2: GROUND
+-------------------------------------------------
+ID: 96 - DROWZEE
+Type_1: PSYCHIC
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 97 - HYPNO
+Type_1: PSYCHIC
+
+Pokemon's_Parent:96 - DROWZEE
+-------------------------------------------------
+ID: 98 - KRABBY
+Type_1: WATER
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 99 - KINGLER
+Type_1: WATER
+
+Pokemon's_Parent:98 - KRABBY
+-------------------------------------------------
+ID: 100 - VOLTORB
+Type_1: ELECTRIC
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 101 - ELECTRODE
+Type_1: ELECTRIC
+
+Pokemon's_Parent:100 - VOLTORB
+-------------------------------------------------
+ID: 102 - EXEGGCUTE
+Type_1: GRASS
+Type_2: PSYCHIC
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 103 - EXEGGUTOR
+Type_1: GRASS
+Type_2: PSYCHIC
+
+Pokemon's_Parent:102 - EXEGGCUTE
+-------------------------------------------------
+ID: 104 - CUBONE
+Type_1: GROUND
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 105 - MAROWAK
+Type_1: GROUND
+
+Pokemon's_Parent:104 - CUBONE
+-------------------------------------------------
+ID: 106 - HITMONLEE
+Type_1: FIGHTING
+-------------------------------------------------
+ID: 107 - HITMONCHAN
+Type_1: FIGHTING
+-------------------------------------------------
+ID: 108 - LICKITUNG
+Type_1: NORMAL
+-------------------------------------------------
+ID: 109 - KOFFING
+Type_1: POISON
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 110 - WEEZING
+Type_1: POISON
+
+Pokemon's_Parent:109 - KOFFING
+-------------------------------------------------
+ID: 111 - RHYHORN
+Type_1: GROUND
+Type_2: ROCK
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 112 - RHYDON
+Type_1: GROUND
+Type_2: ROCK
+
+Pokemon's_Parent:111 - RHYHORN
+-------------------------------------------------
+ID: 113 - CHANSEY
+Type_1: NORMAL
+-------------------------------------------------
+ID: 114 - TANGELA
+Type_1: GRASS
+-------------------------------------------------
+ID: 115 - KANGASKHAN
+Type_1: NORMAL
+-------------------------------------------------
+ID: 116 - HORSEA
+Type_1: WATER
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 117 - SEADRA
+Type_1: WATER
+
+Pokemon's_Parent:116 - HORSEA
+-------------------------------------------------
+ID: 118 - GOLDEEN
+Type_1: WATER
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 119 - SEAKING
+Type_1: WATER
+
+Pokemon's_Parent:118 - GOLDEEN
+-------------------------------------------------
+ID: 120 - STARYU
+Type_1: WATER
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 121 - STARMIE
+Type_1: WATER
+Type_2: PSYCHIC
+
+Pokemon's_Parent:120 - STARYU
+-------------------------------------------------
+ID: 122 - MR_MIME
+Type_1: PSYCHIC
+Type_2: FAIRY
+-------------------------------------------------
+ID: 123 - SCYTHER
+Type_1: BUG
+Type_2: FLYING
+-------------------------------------------------
+ID: 124 - JYNX
+Type_1: ICE
+Type_2: PSYCHIC
+-------------------------------------------------
+ID: 125 - ELECTABUZZ
+Type_1: ELECTRIC
+-------------------------------------------------
+ID: 126 - MAGMAR
+Type_1: FIRE
+-------------------------------------------------
+ID: 127 - PINSIR
+Type_1: BUG
+-------------------------------------------------
+ID: 128 - TAUROS
+Type_1: NORMAL
+-------------------------------------------------
+ID: 129 - MAGIKARP
+Type_1: WATER
+Candies_To_Evolve: 400
+-------------------------------------------------
+ID: 130 - GYARADOS
+Type_1: WATER
+Type_2: FLYING
+
+Pokemon's_Parent:129 - MAGIKARP
+-------------------------------------------------
+ID: 131 - LAPRAS
+Type_1: WATER
+Type_2: ICE
+-------------------------------------------------
+ID: 132 - DITTO
+Type_1: NORMAL
+-------------------------------------------------
+ID: 133 - EEVEE
+Type_1: NORMAL
+Candies_To_Evolve: 25
+-------------------------------------------------
+ID: 134 - VAPOREON
+Type_1: WATER
+
+Pokemon's_Parent:133 - EEVEE
+-------------------------------------------------
+ID: 135 - JOLTEON
+Type_1: ELECTRIC
+
+Pokemon's_Parent:133 - EEVEE
+-------------------------------------------------
+ID: 136 - FLAREON
+Type_1: FIRE
+
+Pokemon's_Parent:133 - EEVEE
+-------------------------------------------------
+ID: 137 - PORYGON
+Type_1: NORMAL
+-------------------------------------------------
+ID: 138 - OMANYTE
+Type_1: ROCK
+Type_2: WATER
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 139 - OMASTAR
+Type_1: ROCK
+Type_2: WATER
+
+Pokemon's_Parent:138 - OMANYTE
+-------------------------------------------------
+ID: 140 - KABUTO
+Type_1: ROCK
+Type_2: WATER
+Candies_To_Evolve: 50
+-------------------------------------------------
+ID: 141 - KABUTOPS
+Type_1: ROCK
+Type_2: WATER
+
+Pokemon's_Parent:140 - KABUTO
+-------------------------------------------------
+ID: 142 - AERODACTYL
+Type_1: ROCK
+Type_2: FLYING
+-------------------------------------------------
+ID: 143 - SNORLAX
+Type_1: NORMAL
+-------------------------------------------------
+ID: 144 - ARTICUNO
+Type_1: ICE
+Type_2: FLYING
+-------------------------------------------------
+ID: 145 - ZAPDOS
+Type_1: ELECTRIC
+Type_2: FLYING
+-------------------------------------------------
+ID: 146 - MOLTRES
+Type_1: FIRE
+Type_2: FLYING
+-------------------------------------------------
+ID: 147 - DRATINI
+Type_1: DRAGON
+Candies_To_Evolve: 25
+-------------------------------------------------
+ID: 148 - DRAGONAIR
+Type_1: DRAGON
+Candies_To_Evolve: 100
+
+Pokemon's_Parent:147 - DRATINI
+-------------------------------------------------
+ID: 149 - DRAGONITE
+Type_1: DRAGON
+Type_2: FLYING
+
+Pokemon's_Parent:148 - DRAGONAIR
+-------------------------------------------------
+ID: 150 - MEWTWO
+Type_1: PSYCHIC
+-------------------------------------------------
+ID: 151 - MEW
+Type_1: PSYCHIC
+-------------------------------------------------
